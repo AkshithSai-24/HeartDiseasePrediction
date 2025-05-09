@@ -17,7 +17,7 @@ This project includes the following files:
 -   [Installation](#installation)
 -   [Usage](#usage)
 -   [File Descriptions](#file-descriptions)
--   [License](#license)
+
 
 ## Installation
 
@@ -52,14 +52,9 @@ This project includes the following files:
 ## File Descriptions
 
   - `app.py`: This file serves as the main entry point for the Heart Disease Prediction application. It likely handles user input through a graphical or command-line interface and uses the functionalities provided by `ml_code.py` to make predictions.
-  - `ml_code.py`: This file contains the core logic for the heart disease prediction model. It likely includes steps for data loading and preprocessing, the implementation of a machine learning algorithm (such as Logistic Regression, Support Vector Machines, or a more advanced technique), model training on relevant datasets, and the function to generate predictions based on input features.
+  - `ml_code.py`: This file contains the core logic for the heart disease prediction model. It likely includes steps for data loading and preprocessing, the implementation of a machine learning algorithm ), model training on relevant datasets, and the function to generate predictions based on input features.
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
-## Contact
 
-AkshithSai-24
-(https://github.com/AkshithSai-24)
