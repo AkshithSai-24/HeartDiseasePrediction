@@ -32,6 +32,9 @@ def predict():
         my_prediction = model.predict(data)
         
         return render_template('p.html', prediction=my_prediction)
+# Run the Flask appAdd commentMore actions
+if __name__ == '__main__':
+    app.run(debug=True)
 
 
 
